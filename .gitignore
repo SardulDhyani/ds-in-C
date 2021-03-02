@@ -1,0 +1,8 @@
+# .vscode
+.vscode
+
+# All .exe Files
+*.exe
+
+#other files
+hello.c
